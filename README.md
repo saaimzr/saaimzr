@@ -9,7 +9,7 @@ I’m Saaim Raad, a Computer Engineering student at the University of Toronto wi
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms </b>
-  - [Reversi Game](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Reversi Game](https://github.com/saaimzr/Reversi-Game/tree/main)
   - [Circuit Network Program](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (Python, TensorFlow, Keras, OpenCV, Streamlit and Pillow)</b>
   - [Pneumonia Image Classifier Web App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
