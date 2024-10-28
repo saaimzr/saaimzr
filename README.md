@@ -10,7 +10,7 @@ I’m Saaim Raad, a Computer Engineering student at the University of Toronto wi
 
 - <b>Data Structures and Algorithms </b>
   - [Reversi Game](https://github.com/saaimzr/Reversi-Game/tree/main)
-  - [Circuit Network Program](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Circuit Network Program](https://github.com/saaimzr/Circuit-Network-Program/tree/main)
 - <b>Full Stack Web App (Python, TensorFlow, Keras, OpenCV, Streamlit and Pillow)</b>
   - [Pneumonia Image Classifier Web App](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>
 - <b>Neural Networks and Computer Vision</b>
