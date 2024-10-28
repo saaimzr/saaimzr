@@ -14,7 +14,7 @@ I’m Saaim Raad, a Computer Engineering student at the University of Toronto wi
 - <b>Full Stack Web App (Python, TensorFlow, Keras, OpenCV, Streamlit and Pillow)</b>
   - [Pneumonia Image Classifier Web App](https://github.com/saaimzr/Pneumonia-Image-Classifier-Web-App) <b><i>
 - <b>Neural Networks and Computer Vision</b>
-  - [Image Captioning with Recurrent Neural Networks](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [Image Captioning with Recurrent Neural Networks](https://github.com/saaimzr/Image-Captioning-with-Recurrent-Neural-Networks/tree/main)
   - [Encoder-Decoder Transformer Model for Vector-to-Vector Computation](https://github.com/joshmadakor1/Jwipe.PowerShell)
 
 <h2> 🤳 Connect with me:</h2>
