@@ -9,10 +9,10 @@ I’m Saaim Raad, a Computer Engineering student at the University of Toronto wi
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - <b>Data Structures and Algorithms </b>
-  - [Reversi Game](https://github.com/saaimzr/Reversi-Game/tree/main)
-  - [Circuit Network Program](https://github.com/saaimzr/Circuit-Network-Program/tree/main)
+  - [Reversi Game (C)](https://github.com/saaimzr/Reversi-Game/tree/main)
+  - [Circuit Network Program (C++)](https://github.com/saaimzr/Circuit-Network-Program/tree/main)
 - <b>Full Stack Web App (Python, TensorFlow, Keras, OpenCV, Streamlit and Pillow)</b>
-  - [Pneumonia Image Classifier Web App](https://github.com/saaimzr/Pneumonia-Image-Classifier-Web-App) <b><i>
+  - [Pneumonia Image Classifier Web App](https://github.com/saaimzr/Pneumonia-Image-Classifier-Web-App) <b>
 - <b>Neural Networks and Computer Vision</b>
   - [Image Captioning with Recurrent Neural Networks](https://github.com/saaimzr/Image-Captioning-with-Recurrent-Neural-Networks/tree/main)
   - [Encoder-Decoder Transformer Model for Vector-to-Vector Computation](https://github.com/saaimzr/Encoder-Decoder-Transformer-Model-for-Vector-to-Vector-Computation/tree/main)
