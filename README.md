@@ -1,9 +1,9 @@
-<h1>Hello World! 👋 </h1>
-I’m Saaim Raad, a Computer Engineering student at the University of Toronto with a passion for AI, embedded systems, digital circuit design, and real-world problem-solving. From advancing AI models that help companies embrace data-driven strategies to engineering reliable hardware solutions like fire detection systems for global fire departments, I strive to create impactful technology.
+<h1>Hello World! </h1>
+I’m Saaim Raad, a 3rd year Electrical Engineering undergrad student at the University of Toronto with a passion for physical AI, robotics, perception and lowl-level optimization. From advancing AI models that help companies embrace data-driven strategies to accelerating inference on edge such as AI fire detection systems for global fire departments, I strive to create impactful technology.
 <br><br>
-- 🔭 <strong>Current Projects:</strong> </b> I’m currently a Research Intern at Unilever, where I develop high-accuracy AI models for time-series forecasting to advance industry benchmarks. Recently, I built RNN based benchmark models using PyTorch and NumPy, including Transformer, GRU, and LSTM architectures. This work set a new standard for model performance and supports Unilever’s data-driven decision-making.
+- <strong>Current Projects:</strong> </b> I’m currently a Computational Bio ML Research Intern at Pardee Labs, where I develop and work on protein prediction pipelines featuring Protein Language Models (PLMs). Recently, I distilled and quantized a variety of models, and am currently working on a project involving MCPs. 
 <br><br>
-- 🌱 <strong>Future Goals:</strong> </b> I’m currently focusing my learning on AI Engineering and Engineering Business as part of my minors/focus areas at the University of Toronto, driven by a passion for advancing deep learning and AI. My goal is to deepen my knowledge in both software and hardware—including in chip design and circuitry—to tackle some of the toughest challenges in computation and create impactful solutions.
+- <strong>Future Goals:</strong> </b> I’m currently focusing my learning on AI x Robotics as part of my minors/focus areas at the University of Toronto, driven by a passion for advancing embodied AI. My goal is to one day build humanoid robots that are intelligent, so I never have to fold laundry again :)
 
 
 <h2>👨‍💻 Software Development Projects:</h2>
@@ -16,6 +16,10 @@ I’m Saaim Raad, a Computer Engineering student at the University of Toronto wi
 - <b>Neural Networks and Computer Vision</b>
   - [Image Captioning with Recurrent Neural Networks](https://github.com/saaimzr/Image-Captioning-with-Recurrent-Neural-Networks/tree/main)
   - [Encoder-Decoder Transformer Model for Vector-to-Vector Computation](https://github.com/saaimzr/Encoder-Decoder-Transformer-Model-for-Vector-to-Vector-Computation/tree/main)
+  - [Stable Diffusion GenAI Model From Scratch](https://github.com/saaimzr/Stable-Diffusion-From-Scratch.git)
+  - [Multimodal Vision Language Model (VLM) From Scratch](https://github.com/saaimzr/Multimodal-Vision-Language-Model-From-Scratch.git)
+       
+
 
 <h2> 🤳 Connect with me:</h2>
 
