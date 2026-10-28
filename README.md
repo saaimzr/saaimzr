@@ -1,24 +1,9 @@
+Electrical engineering at the University of Toronto. I mostly write C++ for robots and the software that tests them, plus some ML for biology.
 
+Lately:
+- FPGA toolchain software at Microchip
+- Perception for aUToronto, the university's self-driving car team
+- Agent and lab-automation software for protein engineering at the Pardee Lab, and co-author on a submitted study of quantized protein language models
+- [lidar-sim](https://github.com/saaimzr/lidar-sim), a LiDAR simulator I wrote from scratch and checked against analytic ground truth
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/saaimzr/
-[linkedin]: https://www.linkedin.com/in/saaimraad
-
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[saaimraad.com](https://saaimraad.com) · [LinkedIn](https://www.linkedin.com/in/saaimraad)
